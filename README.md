@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
   <strong>CPE201A_FP_LOPEZ</strong>
-</div>
+</h1>
   
 <p align="center">
   A Compilation of the Activites, Quizzes, and Projects across all of my first year CpE courses.
